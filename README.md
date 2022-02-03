@@ -3,7 +3,7 @@
 
 The cutest Drozer fork out there
 
-![alt text](https://github.com/Yogehi/boops-boops-android-agent/blob/main/boopsboops-logo.jpeg)
+![alt text](https://github.com/FSecureLabs/boops-boops-android-agent/blob/main/boopsboops-logo.jpeg)
 
 This fork was created to accompany CVE-2022-22288 (link to write up coming soon). This version of Boops Boops has all of the same features as Drozer, with the exception that the Drozer server starts automatically after launching Boops Boops.
 
