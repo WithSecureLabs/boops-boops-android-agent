@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/src/main/res"/><source path="/Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/build/generated/res/rs/debug"/><source path="/Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/src/main/res"><file name="list_view_row_log_message" path="/Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/src/main/res/layout/list_view_row_log_message.xml" qualifiers="" type="layout"/><file path="/Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/src/main/res/values-night/themes.xml" qualifiers="night-v8"><style name="Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style></file><file path="/Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/src/main/res/values/colors.xml" qualifiers=""><color name="purple_200">#FFBB86FC</color><color name="purple_500">#FF6200EE</color><color name="purple_700">#FF3700B3</color><color name="teal_200">#FF03DAC5</color><color name="teal_700">#FF018786</color><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color></file><file path="/Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/src/main/res/values/themes.xml" qualifiers=""><style name="Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style></file><file path="/Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/src/main/res/values/styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style></file><file path="/Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">Boops Boops Common Android</string><string name="log_level_tag_assert">A</string><string name="log_level_tag_debug">D</string><string name="log_level_tag_error">E</string><string name="log_level_tag_info">I</string><string name="log_level_tag_unknown">U</string><string name="log_level_tag_verbose">V</string><string name="log_level_tag_warn">W</string></file><file name="ic_launcher" path="/Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/></source><source path="/Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/build/generated/res/rs/debug"/><source path="/Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/build/generated/res/resValues/debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/src/debug/res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/src/debug/res"/></dataSet><mergedItems/></merger>

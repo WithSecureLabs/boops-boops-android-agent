@@ -1,0 +1,198 @@
+com/boops/jdiesel/api/builders/MessageFactory.java
+ com.boops.jdiesel.api.builders.MessageFactory
+com/boops/jdiesel/api/APIVersionException.java
+ com.boops.jdiesel.api.APIVersionException
+com/boops/jdiesel/api/Protobuf.java
+ com.boops.jdiesel.api.Protobuf
+ com.boops.jdiesel.api.Protobuf$1
+ com.boops.jdiesel.api.Protobuf$Message
+ com.boops.jdiesel.api.Protobuf$Message$1
+ com.boops.jdiesel.api.Protobuf$Message$Argument
+ com.boops.jdiesel.api.Protobuf$Message$Argument$1
+ com.boops.jdiesel.api.Protobuf$Message$Argument$ArgumentType
+ com.boops.jdiesel.api.Protobuf$Message$Argument$ArgumentType$1
+ com.boops.jdiesel.api.Protobuf$Message$Argument$Builder
+ com.boops.jdiesel.api.Protobuf$Message$ArgumentOrBuilder
+ com.boops.jdiesel.api.Protobuf$Message$Array
+ com.boops.jdiesel.api.Protobuf$Message$Array$1
+ com.boops.jdiesel.api.Protobuf$Message$Array$ArrayType
+ com.boops.jdiesel.api.Protobuf$Message$Array$ArrayType$1
+ com.boops.jdiesel.api.Protobuf$Message$Array$Builder
+ com.boops.jdiesel.api.Protobuf$Message$ArrayOrBuilder
+ com.boops.jdiesel.api.Protobuf$Message$Builder
+ com.boops.jdiesel.api.Protobuf$Message$Device
+ com.boops.jdiesel.api.Protobuf$Message$Device$1
+ com.boops.jdiesel.api.Protobuf$Message$Device$Builder
+ com.boops.jdiesel.api.Protobuf$Message$DeviceOrBuilder
+ com.boops.jdiesel.api.Protobuf$Message$MessageType
+ com.boops.jdiesel.api.Protobuf$Message$MessageType$1
+ com.boops.jdiesel.api.Protobuf$Message$ObjectReference
+ com.boops.jdiesel.api.Protobuf$Message$ObjectReference$1
+ com.boops.jdiesel.api.Protobuf$Message$ObjectReference$Builder
+ com.boops.jdiesel.api.Protobuf$Message$ObjectReferenceOrBuilder
+ com.boops.jdiesel.api.Protobuf$Message$Primitive
+ com.boops.jdiesel.api.Protobuf$Message$Primitive$1
+ com.boops.jdiesel.api.Protobuf$Message$Primitive$Builder
+ com.boops.jdiesel.api.Protobuf$Message$Primitive$PrimitiveType
+ com.boops.jdiesel.api.Protobuf$Message$Primitive$PrimitiveType$1
+ com.boops.jdiesel.api.Protobuf$Message$PrimitiveOrBuilder
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$1
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$Builder
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$Construct
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$Construct$1
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$Construct$Builder
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$ConstructOrBuilder
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$Delete
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$Delete$1
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$Delete$Builder
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$DeleteOrBuilder
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$GetProperty
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$GetProperty$1
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$GetProperty$Builder
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$GetPropertyOrBuilder
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$Invoke
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$Invoke$1
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$Invoke$Builder
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$InvokeOrBuilder
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$RequestType
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$RequestType$1
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$Resolve
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$Resolve$1
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$Resolve$Builder
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$ResolveOrBuilder
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$SetProperty
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$SetProperty$1
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$SetProperty$Builder
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequest$SetPropertyOrBuilder
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionRequestOrBuilder
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionResponse
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionResponse$1
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionResponse$Builder
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionResponse$ResponseStatus
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionResponse$ResponseStatus$1
+ com.boops.jdiesel.api.Protobuf$Message$ReflectionResponseOrBuilder
+ com.boops.jdiesel.api.Protobuf$Message$Session
+ com.boops.jdiesel.api.Protobuf$Message$Session$1
+ com.boops.jdiesel.api.Protobuf$Message$Session$Builder
+ com.boops.jdiesel.api.Protobuf$Message$SessionOrBuilder
+ com.boops.jdiesel.api.Protobuf$Message$SystemRequest
+ com.boops.jdiesel.api.Protobuf$Message$SystemRequest$1
+ com.boops.jdiesel.api.Protobuf$Message$SystemRequest$Builder
+ com.boops.jdiesel.api.Protobuf$Message$SystemRequest$RequestType
+ com.boops.jdiesel.api.Protobuf$Message$SystemRequest$RequestType$1
+ com.boops.jdiesel.api.Protobuf$Message$SystemRequestOrBuilder
+ com.boops.jdiesel.api.Protobuf$Message$SystemResponse
+ com.boops.jdiesel.api.Protobuf$Message$SystemResponse$1
+ com.boops.jdiesel.api.Protobuf$Message$SystemResponse$Builder
+ com.boops.jdiesel.api.Protobuf$Message$SystemResponse$ResponseStatus
+ com.boops.jdiesel.api.Protobuf$Message$SystemResponse$ResponseStatus$1
+ com.boops.jdiesel.api.Protobuf$Message$SystemResponse$ResponseType
+ com.boops.jdiesel.api.Protobuf$Message$SystemResponse$ResponseType$1
+ com.boops.jdiesel.api.Protobuf$Message$SystemResponseOrBuilder
+ com.boops.jdiesel.api.Protobuf$MessageOrBuilder
+com/boops/jdiesel/api/connectors/ServerSocketFactory.java
+ com.boops.jdiesel.api.connectors.ServerSocketFactory
+com/boops/jdiesel/connection/AbstractSession.java
+ com.boops.jdiesel.connection.AbstractSession
+ com.boops.jdiesel.connection.AbstractSession$OnSessionStatusListener
+com/boops/jdiesel/reflection/types/ReflectedPrimitive.java
+ com.boops.jdiesel.reflection.types.ReflectedPrimitive
+ com.boops.jdiesel.reflection.types.ReflectedPrimitive$1
+com/boops/jdiesel/api/builders/SystemResponseFactory.java
+ com.boops.jdiesel.api.builders.SystemResponseFactory
+com/boops/jdiesel/reflection/types/ReflectedNull.java
+ com.boops.jdiesel.reflection.types.ReflectedNull
+com/boops/jdiesel/api/links/Server.java
+ com.boops.jdiesel.api.links.Server
+com/boops/jdiesel/api/UnexpectedMessageException.java
+ com.boops.jdiesel.api.UnexpectedMessageException
+com/boops/jdiesel/reflection/types/ReflectedObject.java
+ com.boops.jdiesel.reflection.types.ReflectedObject
+com/boops/jdiesel/logger/Logger.java
+ com.boops.jdiesel.logger.Logger
+com/boops/jdiesel/api/builders/SystemRequestFactory.java
+ com.boops.jdiesel.api.builders.SystemRequestFactory
+com/boops/jdiesel/reflection/types/ReflectedBinary.java
+ com.boops.jdiesel.reflection.types.ReflectedBinary
+com/boops/jdiesel/api/connectors/Server.java
+ com.boops.jdiesel.api.connectors.Server
+ com.boops.jdiesel.api.connectors.Server$OnChangeListener
+ com.boops.jdiesel.api.connectors.Server$OnDetailedStatusListener
+com/boops/jdiesel/api/handlers/MessageHandler.java
+ com.boops.jdiesel.api.handlers.MessageHandler
+com/boops/jdiesel/logger/LogMessage.java
+ com.boops.jdiesel.logger.LogMessage
+com/boops/jdiesel/connection/AbstractLink.java
+ com.boops.jdiesel.connection.AbstractLink
+com/boops/jdiesel/api/InvalidMessageException.java
+ com.boops.jdiesel.api.InvalidMessageException
+com/boops/jdiesel/reflection/types/ReflectedType.java
+ com.boops.jdiesel.reflection.types.ReflectedType
+ com.boops.jdiesel.reflection.types.ReflectedType$1
+com/boops/jdiesel/connection/AbstractSessionCollection.java
+ com.boops.jdiesel.connection.AbstractSessionCollection
+com/boops/jdiesel/api/builders/ReflectionResponseFactory.java
+ com.boops.jdiesel.api.builders.ReflectionResponseFactory
+ com.boops.jdiesel.api.builders.ReflectionResponseFactory$1
+com/boops/jdiesel/api/sessions/Session.java
+ com.boops.jdiesel.api.sessions.Session
+com/boops/jdiesel/api/handlers/ReflectionMessageHandler.java
+ com.boops.jdiesel.api.handlers.ReflectionMessageHandler
+ com.boops.jdiesel.api.handlers.ReflectionMessageHandler$1
+com/boops/jdiesel/api/sessions/SessionCollection.java
+ com.boops.jdiesel.api.sessions.SessionCollection
+com/boops/jdiesel/api/DeviceInfo.java
+ com.boops.jdiesel.api.DeviceInfo
+com/boops/jdiesel/connection/SecureConnection.java
+ com.boops.jdiesel.connection.SecureConnection
+com/boops/jdiesel/util/Shell.java
+ com.boops.jdiesel.util.Shell
+com/boops/jdiesel/reflection/ObjectStore.java
+ com.boops.jdiesel.reflection.ObjectStore
+com/boops/jdiesel/api/connectors/Connector.java
+ com.boops.jdiesel.api.connectors.Connector
+ com.boops.jdiesel.api.connectors.Connector$Status
+com/boops/jdiesel/api/transport/TransportDisconnectedException.java
+ com.boops.jdiesel.api.transport.TransportDisconnectedException
+com/boops/jdiesel/api/connectors/EndpointSocketFactory.java
+ com.boops.jdiesel.api.connectors.EndpointSocketFactory
+com/boops/jdiesel/reflection/types/ReflectedArray.java
+ com.boops.jdiesel.reflection.types.ReflectedArray
+ com.boops.jdiesel.reflection.types.ReflectedArray$1
+com/boops/jdiesel/reflection/Reflector.java
+ com.boops.jdiesel.reflection.Reflector
+com/boops/jdiesel/reflection/types/ReflectedString.java
+ com.boops.jdiesel.reflection.types.ReflectedString
+com/boops/jdiesel/api/transport/Transport.java
+ com.boops.jdiesel.api.transport.Transport
+com/boops/jdiesel/util/Verify.java
+ com.boops.jdiesel.util.Verify
+com/boops/jdiesel/api/transport/SecureTransport.java
+ com.boops.jdiesel.api.transport.SecureTransport
+com/boops/jdiesel/api/Frame.java
+ com.boops.jdiesel.api.Frame
+com/boops/jdiesel/api/connectors/Endpoint.java
+ com.boops.jdiesel.api.connectors.Endpoint
+ com.boops.jdiesel.api.connectors.Endpoint$EndpointSerializer
+ com.boops.jdiesel.api.connectors.Endpoint$OnDetailedStatusListener
+com/boops/jdiesel/api/handlers/SystemMessageHandler.java
+ com.boops.jdiesel.api.handlers.SystemMessageHandler
+ com.boops.jdiesel.api.handlers.SystemMessageHandler$1
+com/boops/jdiesel/api/connectors/Connection.java
+ com.boops.jdiesel.api.connectors.Connection
+com/boops/jdiesel/connection/AbstractConnection.java
+ com.boops.jdiesel.connection.AbstractConnection
+ com.boops.jdiesel.connection.AbstractConnection$1
+com/boops/jdiesel/logger/OnLogMessageListener.java
+ com.boops.jdiesel.logger.OnLogMessageListener
+com/boops/jdiesel/api/transport/SocketTransport.java
+ com.boops.jdiesel.api.transport.SocketTransport
+com/boops/jdiesel/util/Strings.java
+ com.boops.jdiesel.util.Strings
+com/boops/jdiesel/api/links/Link.java
+ com.boops.jdiesel.api.links.Link
+com/boops/jdiesel/api/links/Client.java
+ com.boops.jdiesel.api.links.Client
+com/boops/jdiesel/BuildConfig.java
+ com.boops.jdiesel.BuildConfig

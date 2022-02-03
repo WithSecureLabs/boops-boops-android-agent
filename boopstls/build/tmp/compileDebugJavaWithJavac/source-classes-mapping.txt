@@ -1,0 +1,8 @@
+com/boops/common/tls/trust_managers/NaiveTrustManager.java
+ com.boops.common.tls.trust_managers.NaiveTrustManager
+com/boops/common/tls/X509Fingerprint.java
+ com.boops.common.tls.X509Fingerprint
+com/boops/common/tls/BuildConfig.java
+ com.boops.common.tls.BuildConfig
+com/boops/common/tls/trust_managers/KeyStoreTrustManager.java
+ com.boops.common.tls.trust_managers.KeyStoreTrustManager

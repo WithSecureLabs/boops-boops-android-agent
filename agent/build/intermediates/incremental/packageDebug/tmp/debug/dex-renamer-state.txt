@@ -1,0 +1,16 @@
+#Tue Jan 18 11:42:18 EST 2022
+path.4=classes_2.dex
+path.3=classes_1.dex
+path.2=classes_0.dex
+path.1=classes.dex
+path.0=classes.dex
+base.4=/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/dex/debug/mergeLibDexDebug/classes_2.dex
+base.3=/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/dex/debug/mergeLibDexDebug/classes_1.dex
+base.2=/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/dex/debug/mergeLibDexDebug/classes_0.dex
+base.1=/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
+base.0=/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.4=classes5.dex

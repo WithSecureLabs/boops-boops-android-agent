@@ -1,0 +1,7 @@
+Executable : /Users/kengannon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Volumes/YayExternalYay/git/private_pwn2own-s21/boops_boops_android_app/jdiesel/.cxx/cmake/release/x86_64
+mstring
+jvmArgs : 
+

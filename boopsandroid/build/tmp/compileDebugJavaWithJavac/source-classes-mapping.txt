@@ -1,0 +1,4 @@
+com/boops/common/android/app/NotifyingService.java
+ com.boops.common.android.app.NotifyingService
+com/boops/common/android/BuildConfig.java
+ com.boops.common.android.BuildConfig

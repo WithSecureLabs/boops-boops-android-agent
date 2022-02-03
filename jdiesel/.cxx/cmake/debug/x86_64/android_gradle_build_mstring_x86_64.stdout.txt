@@ -1,0 +1,3 @@
+ninja: Entering directory `/Users/kengannon/Desktop/git/boops-boops-android-agent/jdiesel/.cxx/cmake/debug/x86_64'
+[1/2] Building CXX object CMakeFiles/mstring.dir/src/main/cpp/libmstring/mstring.cpp.o
+[2/2] Linking CXX shared library ../../../../build/intermediates/cmake/debug/obj/x86_64/libmstring.so

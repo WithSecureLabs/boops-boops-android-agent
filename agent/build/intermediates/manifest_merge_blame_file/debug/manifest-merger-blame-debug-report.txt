@@ -1,0 +1,179 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="live.hatch.russa"
+4    android:versionCode="8"
+5    android:versionName="1.2.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:7:5-67
+11-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:7:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:8:5-80
+12-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:8:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:9:5-81
+13-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:9:22-78
+14    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE" />
+14-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:10:5-78
+14-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:10:22-75
+15    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+15-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:11:5-83
+15-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:11:22-80
+16
+17    <application
+17-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:13:5-81:19
+18        android:allowBackup="false"
+18-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:14:9-36
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.5.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/9dff49f22d54ed652bd93810541c5442/core-1.5.0/AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@drawable/ic_launcher"
+22-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:15:9-45
+23        android:label="@string/app_name"
+23-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:16:9-41
+24        android:testOnly="true"
+25        android:theme="@style/Theme.MyApplication" >
+25-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:17:9-51
+26        <activity
+26-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:18:9-21:88
+27            android:name="com.boops.boops.activities.AboutActivity"
+27-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:19:13-68
+28            android:label="@string/title_about"
+28-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:20:13-48
+29            android:parentActivityName="com.boops.boops.activities.SettingsActivity" />
+29-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:21:13-85
+30        <activity
+30-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:22:9-29:20
+31            android:name="com.boops.boops.activities.MainActivity"
+31-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:23:13-67
+32            android:label="@string/title_activity_main" >
+32-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:24:13-56
+33            <intent-filter>
+33-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:25:13-28:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:26:17-69
+34-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:26:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:27:17-77
+36-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:27:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity android:name="com.boops.boops.activities.StartBroadcastActivity" />
+39-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:30:9-31:80
+39-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:31:13-77
+40        <activity
+40-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:32:9-34:63
+41            android:name="com.boops.boops.activities.EndpointActivity"
+41-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:33:13-71
+42            android:label="@string/title_activity_endpoint" />
+42-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:34:13-60
+43        <activity
+43-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:35:9-37:52
+44            android:name="com.boops.boops.activities.EndpointSettingsActivity"
+44-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:36:13-79
+45            android:label="@string/endpoint_new" />
+45-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:37:13-49
+46        <activity
+46-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:38:9-40:61
+47            android:name="com.boops.boops.activities.ServerActivity"
+47-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:39:13-69
+48            android:label="@string/title_activity_server" />
+48-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:40:13-58
+49        <activity
+49-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:41:9-43:63
+50            android:name="com.boops.boops.activities.SettingsActivity"
+50-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:42:13-71
+51            android:label="@string/title_activity_settings" />
+51-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:43:13-60
+52        <activity
+52-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:44:9-47:15
+53            android:name="com.boops.boops.helpers.IntentProxyToContentProvider"
+53-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:45:13-80
+54            android:exported="true" />
+54-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:46:13-36
+55
+56        <receiver
+56-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:49:9-56:20
+57            android:name="com.boops.boops.receivers.StartServiceReceiver"
+57-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:50:13-74
+58            android:exported="true"
+58-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:51:13-36
+59            android:process=":remote" >
+59-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:52:13-38
+60            <intent-filter>
+60-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:53:13-55:29
+61                <action android:name="com.boops.boops.PWN" />
+61-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:54:17-61
+61-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:54:25-59
+62            </intent-filter>
+63        </receiver>
+64        <receiver
+64-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:58:9-65:20
+65            android:name="com.boops.boops.receivers.StartMainActivityReceiver"
+65-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:59:13-79
+66            android:exported="true"
+66-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:60:13-36
+67            android:process=":remote" >
+67-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:61:13-38
+68            <intent-filter>
+68-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:62:13-64:29
+69                <action android:name="com.boops.boops.START" />
+69-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:63:17-63
+69-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:63:25-61
+70            </intent-filter>
+71        </receiver>
+72
+73        <service
+73-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:67:9-69:41
+74            android:name="com.boops.boops.services.ClientService"
+74-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:68:13-66
+75            android:process=":remote" />
+75-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:69:13-38
+76        <service
+76-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:70:9-72:41
+77            android:name="com.boops.boops.services.ServerService"
+77-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:71:13-66
+78            android:process=":remote" />
+78-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:72:13-38
+79        <service
+79-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:73:9-75:41
+80            android:name="com.boops.boops.services.SessionService"
+80-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:74:13-67
+81            android:process=":remote" />
+81-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:75:13-38
+82
+83        <provider
+83-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:77:9-80:72
+84            android:name="com.boops.boops.providers.Provider"
+84-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:78:13-62
+85            android:authorities="com.boops.boops.providers.Provider"
+85-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:80:13-69
+86            android:exported="true" />
+86-->/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:79:13-36
+87
+88        <activity
+88-->[com.google.android.gms:play-services-base:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f77a4ad602b78d4d7bd837239756c6fd/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+89            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+89-->[com.google.android.gms:play-services-base:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f77a4ad602b78d4d7bd837239756c6fd/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+90            android:exported="false"
+90-->[com.google.android.gms:play-services-base:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f77a4ad602b78d4d7bd837239756c6fd/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+91            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+91-->[com.google.android.gms:play-services-base:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f77a4ad602b78d4d7bd837239756c6fd/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+92
+93        <meta-data
+93-->[com.google.android.gms:play-services-basement:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/05393c265b87179c895d6a7cfe080a77/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+94            android:name="com.google.android.gms.version"
+94-->[com.google.android.gms:play-services-basement:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/05393c265b87179c895d6a7cfe080a77/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+95            android:value="@integer/google_play_services_version" />
+95-->[com.google.android.gms:play-services-basement:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/05393c265b87179c895d6a7cfe080a77/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+96    </application>
+97
+98</manifest>

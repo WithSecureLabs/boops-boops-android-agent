@@ -1,0 +1,96 @@
+com/boops/boops/service_connectors/SessionServiceConnection.java
+ com.boops.boops.service_connectors.SessionServiceConnection
+com/boops/boops/views/logger/LogMessageAdapter.java
+ com.boops.boops.views.logger.LogMessageAdapter
+com/boops/boops/activities/EndpointActivity.java
+ com.boops.boops.activities.EndpointActivity
+ com.boops.boops.activities.EndpointActivity$1
+com/boops/boops/helpers/IntentProxyToContentProvider.java
+ com.boops.boops.helpers.IntentProxyToContentProvider
+com/boops/boops/EndpointAdapter.java
+ com.boops.boops.EndpointAdapter
+ com.boops.boops.EndpointAdapter$1
+ com.boops.boops.EndpointAdapter$OnEndpointSelectListener
+com/boops/boops/providers/Provider.java
+ com.boops.boops.providers.Provider
+com/boops/boops/activities/ConnectorActivity.java
+ com.boops.boops.activities.ConnectorActivity
+ com.boops.boops.activities.ConnectorActivity$1
+ com.boops.boops.activities.ConnectorActivity$2
+ com.boops.boops.activities.ConnectorActivity$IncomingFingerprintHandler
+com/boops/boops/models/ServerSettings.java
+ com.boops.boops.models.ServerSettings
+com/boops/boops/activities/MainActivity.java
+ com.boops.boops.activities.MainActivity
+ com.boops.boops.activities.MainActivity$1
+ com.boops.boops.activities.MainActivity$2
+ com.boops.boops.activities.MainActivity$3
+ com.boops.boops.activities.MainActivity$4
+ com.boops.boops.activities.MainActivity$5
+com/boops/boops/views/ServerListRowView.java
+ com.boops.boops.views.ServerListRowView
+ com.boops.boops.views.ServerListRowView$1
+ com.boops.boops.views.ServerListRowView$OnServerViewListener
+com/boops/boops/service_connectors/IncomingReplyHandler.java
+ com.boops.boops.service_connectors.IncomingReplyHandler
+com/boops/boops/BuildConfig.java
+ com.boops.boops.BuildConfig
+com/boops/boops/services/ConnectorService.java
+ com.boops.boops.services.ConnectorService
+ com.boops.boops.services.ConnectorService$IncomingHandler
+com/boops/boops/service_connectors/ServerServiceConnection.java
+ com.boops.boops.service_connectors.ServerServiceConnection
+com/boops/boops/services/SessionService.java
+ com.boops.boops.services.SessionService
+ com.boops.boops.services.SessionService$IncomingHandler
+com/boops/boops/activities/AboutActivity.java
+ com.boops.boops.activities.AboutActivity
+com/boops/boops/activities/SettingsActivity.java
+ com.boops.boops.activities.SettingsActivity
+ com.boops.boops.activities.SettingsActivity$1
+ com.boops.boops.activities.SettingsActivity$2
+ com.boops.boops.activities.SettingsActivity$3
+ com.boops.boops.activities.SettingsActivity$4
+com/boops/boops/receivers/StartMainActivityReceiver.java
+ com.boops.boops.receivers.StartMainActivityReceiver
+com/boops/boops/services/ClientService.java
+ com.boops.boops.services.ClientService
+ com.boops.boops.services.ClientService$1
+ com.boops.boops.services.ClientService$2
+com/boops/boops/service_connectors/ClientServiceConnection.java
+ com.boops.boops.service_connectors.ClientServiceConnection
+com/boops/boops/views/EndpointListView.java
+ com.boops.boops.views.EndpointListView
+com/boops/boops/views/logger/LogMessageRowView.java
+ com.boops.boops.views.logger.LogMessageRowView
+com/boops/boops/services/ServerService.java
+ com.boops.boops.services.ServerService
+ com.boops.boops.services.ServerService$1
+ com.boops.boops.services.ServerService$2
+com/boops/boops/receivers/StartServiceReceiver.java
+ com.boops.boops.receivers.StartServiceReceiver
+com/boops/boops/models/EndpointManager.java
+ com.boops.boops.models.EndpointManager
+ com.boops.boops.models.EndpointManager$1
+ com.boops.boops.models.EndpointManager$2
+ com.boops.boops.models.EndpointManager$OnDatasetChangeListener
+ com.boops.boops.models.EndpointManager$OnEndpointStatusChangeListener
+ com.boops.boops.models.EndpointManager$SQLiteSerializer
+com/boops/boops/views/EndpointListRowView.java
+ com.boops.boops.views.EndpointListRowView
+com/boops/boops/activities/ServerActivity.java
+ com.boops.boops.activities.ServerActivity
+ com.boops.boops.activities.ServerActivity$1
+com/boops/boops/views/ConnectorStatusIndicator.java
+ com.boops.boops.views.ConnectorStatusIndicator
+ com.boops.boops.views.ConnectorStatusIndicator$1
+ com.boops.boops.views.ConnectorStatusIndicator$2
+com/boops/boops/Agent.java
+ com.boops.boops.Agent
+com/boops/boops/activities/EndpointSettingsActivity.java
+ com.boops.boops.activities.EndpointSettingsActivity
+ com.boops.boops.activities.EndpointSettingsActivity$1
+com/boops/boops/views/CheckListItemView.java
+ com.boops.boops.views.CheckListItemView
+com/boops/boops/activities/StartBroadcastActivity.java
+ com.boops.boops.activities.StartBroadcastActivity

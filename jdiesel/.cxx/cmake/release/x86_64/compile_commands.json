@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Volumes/YayExternalYay/git/private_pwn2own-s21/boops_boops_android_app/jdiesel/.cxx/cmake/release/x86_64",
+  "command": "/Users/kengannon/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android28 --gcc-toolchain=/Users/kengannon/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kengannon/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dmstring_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/mstring.dir/src/main/cpp/libmstring/mstring.cpp.o -c /Volumes/YayExternalYay/git/private_pwn2own-s21/boops_boops_android_app/jdiesel/src/main/cpp/libmstring/mstring.cpp",
+  "file": "/Volumes/YayExternalYay/git/private_pwn2own-s21/boops_boops_android_app/jdiesel/src/main/cpp/libmstring/mstring.cpp"
+}
+]

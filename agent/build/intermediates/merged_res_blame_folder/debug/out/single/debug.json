@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable_ic_stat_connecting.xml.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable/ic_stat_connecting.xml"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-mdpi_boopsboops.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-mdpi/boopsboops.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_delete.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-hdpi/ic_action_delete.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_unknown.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-mdpi/ic_action_unknown.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-hdpi_ic_stat_offline.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-hdpi/ic_stat_offline.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-xhdpi_boopsboops.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-xhdpi/boopsboops.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_refresh.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-mdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-mdpi_ic_stat_unknown.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-mdpi/ic_stat_unknown.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_online.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-xhdpi/ic_action_online.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-ldpi_ic_stat_online.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-ldpi/ic_stat_online.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-ldpi_ic_stat_unknown.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-ldpi/ic_stat_unknown.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/layout-v14_toggle_server.xml.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/layout-v14/toggle_server.xml"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-ldpi_ic_input_add.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-ldpi/ic_input_add.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_online.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-mdpi/ic_action_online.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/layout_activity_server.xml.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/layout/activity_server.xml"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-xhdpi_ic_stat_offline.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-xhdpi/ic_stat_offline.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/layout_notification_session.xml.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/layout/notification_session.xml"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_new.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-xhdpi/ic_action_new.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/menu_activity_main.xml.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/menu/activity_main.xml"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-hdpi_boopsboops.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-hdpi/boopsboops.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/layout-v14_toggle_endpoint.xml.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/layout-v14/toggle_endpoint.xml"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_new.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-hdpi/ic_action_new.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/raw_agent.bks.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/raw/agent.bks"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_edit.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-hdpi/ic_action_edit.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-mdpi_ic_input_add.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-mdpi/ic_input_add.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_edit.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-xhdpi/ic_action_edit.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-hdpi_ic_stat_active.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-hdpi/ic_stat_active.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-xhdpi_ic_notification.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-xhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_refresh.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-hdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-mdpi_ic_stat_active.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-mdpi/ic_stat_active.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_edit.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-mdpi/ic_action_edit.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-xhdpi_logo.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-ldpi_ic_stat_offline.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-ldpi/ic_stat_offline.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-ldpi_ic_action_unknown.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-ldpi/ic_action_unknown.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_search.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-mdpi_ic_stat_online.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-mdpi/ic_stat_online.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-hdpi_ic_input_add.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-hdpi/ic_input_add.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/layout_activity_about.xml.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/layout_list_view_row_endpoint.xml.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/layout/list_view_row_endpoint.xml"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-mdpi_ic_stat_offline.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-mdpi/ic_stat_offline.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-ldpi_ic_action_edit.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-ldpi/ic_action_edit.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-hdpi_ic_stat_unknown.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-hdpi/ic_stat_unknown.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/menu_activity_connector.xml.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/menu/activity_connector.xml"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_unknown.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-xhdpi/ic_action_unknown.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_refresh.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-xhdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_new.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-mdpi/ic_action_new.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_delete.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-xhdpi/ic_action_delete.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-xhdpi_ic_stat_active.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-xhdpi/ic_stat_active.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-ldpi_ic_notification.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-ldpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-hdpi_ic_stat_online.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-hdpi/ic_stat_online.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/raw_ca.bks.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/raw/ca.bks"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_delete.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-mdpi/ic_action_delete.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_search.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-ldpi_boopsboops.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-ldpi/boopsboops.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-xhdpi_ic_input_add.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-xhdpi/ic_input_add.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-xhdpi_ic_stat_online.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-xhdpi/ic_stat_online.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-ldpi_ic_action_refresh.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-ldpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/menu_activity_endpoint_settings.xml.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/menu/activity_endpoint_settings.xml"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-ldpi_ic_action_new.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-ldpi/ic_action_new.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-ldpi_logo.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_online.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-hdpi/ic_action_online.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/layout_list_view_row_server.xml.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/layout/list_view_row_server.xml"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-xhdpi_ic_stat_unknown.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-xhdpi/ic_stat_unknown.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-hdpi_logo.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/layout-land_activity_main.xml.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-ldpi_ic_action_delete.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-ldpi/ic_action_delete.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_unknown.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-hdpi/ic_action_unknown.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/layout_activity_endpoint_settings.xml.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/layout/activity_endpoint_settings.xml"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-mdpi_logo.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/layout_activity_endpoint.xml.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/layout/activity_endpoint.xml"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-hdpi_ic_notification.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-hdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-mdpi_ic_notification.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-mdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-ldpi_ic_action_online.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-ldpi/ic_action_online.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/layout_check_list_item.xml.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/layout/check_list_item.xml"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-ldpi_ic_stat_active.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-ldpi/ic_stat_active.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_search.png.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/build/intermediates/res/merged/debug/xml_endpoint_headers.xml.flat",
+        "source": "/Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/res/xml/endpoint_headers.xml"
+    }
+]

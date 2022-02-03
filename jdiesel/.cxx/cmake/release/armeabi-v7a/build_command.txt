@@ -1,0 +1,21 @@
+                Executable : /Users/kengannon/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/Volumes/YayExternalYay/git/private_pwn2own-s21/boops_boops_android_app/jdiesel
+-DCMAKE_FIND_ROOT_PATH=/Volumes/YayExternalYay/git/private_pwn2own-s21/boops_boops_android_app/jdiesel/.cxx/cmake/release/prefab/armeabi-v7a/prefab
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_TOOLCHAIN_FILE=/Users/kengannon/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_NDK=/Users/kengannon/Library/Android/sdk/ndk/21.1.6352462
+-DANDROID_PLATFORM=android-28
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DCMAKE_ANDROID_NDK=/Users/kengannon/Library/Android/sdk/ndk/21.1.6352462
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Volumes/YayExternalYay/git/private_pwn2own-s21/boops_boops_android_app/jdiesel/build/intermediates/cmake/release/obj/armeabi-v7a
+-DCMAKE_MAKE_PROGRAM=/Users/kengannon/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=28
+-B/Volumes/YayExternalYay/git/private_pwn2own-s21/boops_boops_android_app/jdiesel/.cxx/cmake/release/armeabi-v7a
+-GNinja
+jvmArgs : 
+
+Build command args:

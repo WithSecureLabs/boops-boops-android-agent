@@ -1,0 +1,24 @@
+com.boops.common.android
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher
+id list_view_row_endpoint
+id log_message_level
+id log_message_message
+layout list_view_row_log_message
+string app_name
+string log_level_tag_assert
+string log_level_tag_debug
+string log_level_tag_error
+string log_level_tag_info
+string log_level_tag_unknown
+string log_level_tag_verbose
+string log_level_tag_warn
+style AppBaseTheme
+style AppTheme
+style Theme_MyApplication

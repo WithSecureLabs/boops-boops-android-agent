@@ -1,0 +1,5 @@
+com.boops.common.tls
+drawable ic_launcher
+string app_name
+style AppBaseTheme
+style AppTheme

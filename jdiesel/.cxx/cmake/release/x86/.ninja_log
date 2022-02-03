@@ -1,0 +1,5 @@
+# ninja log v5
+0	211	1634740340	CMakeFiles/mstring.dir/src/main/cpp/libmstring/mstring.cpp.o	6f62d2feac8254e3
+212	299	1634740340	../../../../build/intermediates/cmake/release/obj/x86/libmstring.so	6bfb936d9d1e70b4
+1	90	1635277972	../../../../build/intermediates/cmake/release/obj/x86/libmstring.so	6bfb936d9d1e70b4
+1	96	1635278039	../../../../build/intermediates/cmake/release/obj/x86/libmstring.so	6bfb936d9d1e70b4

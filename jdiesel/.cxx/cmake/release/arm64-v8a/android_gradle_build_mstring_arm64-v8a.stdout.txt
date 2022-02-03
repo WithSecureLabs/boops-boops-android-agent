@@ -1,0 +1,2 @@
+ninja: Entering directory `/Volumes/YayExternalYay/git/private_pwn2own-s21/boops_boops_android_app/jdiesel/.cxx/cmake/release/arm64-v8a'
+ninja: no work to do.

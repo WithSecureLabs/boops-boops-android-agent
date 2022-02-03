@@ -1,0 +1,5 @@
+# ninja log v5
+0	266	1634740340	CMakeFiles/mstring.dir/src/main/cpp/libmstring/mstring.cpp.o	7ba679b3e074c097
+266	320	1634740340	../../../../build/intermediates/cmake/release/obj/armeabi-v7a/libmstring.so	b895cf7310d72998
+3	263	1635277972	../../../../build/intermediates/cmake/release/obj/armeabi-v7a/libmstring.so	b895cf7310d72998
+4	275	1635278039	../../../../build/intermediates/cmake/release/obj/armeabi-v7a/libmstring.so	b895cf7310d72998

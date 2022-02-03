@@ -1,0 +1,333 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:2:1-83:12
+INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:2:1-83:12
+INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:2:1-83:12
+INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:2:1-83:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f47cc1d15e58d70eded5919f7f58d7da/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/d2d227f3815b62902be92d706100fa9c/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/d32248ca3295ce7d518a19a7d28c5626/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/740fd1b41dfeea31194478268191279e/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [:jdiesel] /Users/kengannon/Desktop/git/boops-boops-android-agent/jdiesel/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:boopstls] /Users/kengannon/Desktop/git/boops-boops-android-agent/boopstls/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:boopsandroid] /Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f77a4ad602b78d4d7bd837239756c6fd/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/3eb912327e3c45e38563df98730f7291/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/05393c265b87179c895d6a7cfe080a77/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/3422c8c9ddaa44328d716141d9ee15e4/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/70cd373010796a1e14fc8f8a7540bc32/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/2508dea86b93b80d8d454b07b18cd3c4/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/64c3c3c8bb5899df17d05660a942f372/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/92b4f60b1d0cb42afc03f3b4c3ee1f21/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/2fac902c3027fcde541431e9b114d42c/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/c6fc22051ace9373b9fadb8e4319bac3/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/e51e3064b77bb5a57f1855a73e50b5f8/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/8224b330ba813277e92160b56d7bbe8f/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/a9ae7db3acbe083b60e38ddc8abf063b/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/e3d97a74f71b4c2e294cb2779c52ef3a/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/c931b81b375b0d6e80c09a0c92a37a45/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/a2e2723f6680095d5976b393be451cac/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/bd2c397ceb90629abb5ac76152ad202a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/5095c79b06678e57ca9ee55018391e05/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f893c2e1b86ac166d695c56727fd4612/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/9dff49f22d54ed652bd93810541c5442/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/8fa3e3a31d6e2b0c2d10babc35bee402/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/9b60736b1da8f613efe523bb86cd0815/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/747606256d6c81f201c8f85a6b2ab724/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/bb6664d2bfb9aad6cff3ee586550c876/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/e854a87b1bf8298a1e1269304eb9ba52/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/a59859a9db4d380b6ae3152a0da3e84d/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/0319fec8a685cf77f85aff1bdf90fd58/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/51cf79c7b00ac3837f1f5e8562fbb15b/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/ee532a9f8e130b8eb446a1e7fac60330/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/91bead573deaca3dda3f53ac14c59b2b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/62ead828f523aeb427c41ad7abd903aa/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/3bd6bdbc4ad92faa504785b275138b69/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/42a513cae39f7a998903dc784e6cebcf/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:2:1-83:12
+INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:2:1-83:12
+INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:2:1-83:12
+	package
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml
+		INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml
+		INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml
+		INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.WRITE_MEDIA_STORAGE
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:10:22-75
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:11:5-83
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:11:22-80
+application
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:13:5-81:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f47cc1d15e58d70eded5919f7f58d7da/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f47cc1d15e58d70eded5919f7f58d7da/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/d2d227f3815b62902be92d706100fa9c/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/d2d227f3815b62902be92d706100fa9c/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/d32248ca3295ce7d518a19a7d28c5626/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/d32248ca3295ce7d518a19a7d28c5626/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [:boopsandroid] /Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-16:19
+MERGED from [:boopsandroid] /Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-16:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f77a4ad602b78d4d7bd837239756c6fd/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f77a4ad602b78d4d7bd837239756c6fd/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/3eb912327e3c45e38563df98730f7291/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/3eb912327e3c45e38563df98730f7291/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/05393c265b87179c895d6a7cfe080a77/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/05393c265b87179c895d6a7cfe080a77/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/9dff49f22d54ed652bd93810541c5442/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/9dff49f22d54ed652bd93810541c5442/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/8fa3e3a31d6e2b0c2d10babc35bee402/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/8fa3e3a31d6e2b0c2d10babc35bee402/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/9dff49f22d54ed652bd93810541c5442/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:15:9-45
+	android:allowBackup
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:14:9-36
+	android:theme
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:17:9-51
+activity#com.boops.boops.activities.AboutActivity
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:18:9-21:88
+	android:parentActivityName
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:21:13-85
+	android:label
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:20:13-48
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:19:13-68
+activity#com.boops.boops.activities.MainActivity
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:22:9-29:20
+	android:label
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:23:13-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:27:27-74
+activity#com.boops.boops.activities.StartBroadcastActivity
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:30:9-31:80
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:31:13-77
+activity#com.boops.boops.activities.EndpointActivity
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:32:9-34:63
+	android:label
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:34:13-60
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:33:13-71
+activity#com.boops.boops.activities.EndpointSettingsActivity
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:35:9-37:52
+	android:label
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:36:13-79
+activity#com.boops.boops.activities.ServerActivity
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:38:9-40:61
+	android:label
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:40:13-58
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:39:13-69
+activity#com.boops.boops.activities.SettingsActivity
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:41:9-43:63
+	android:label
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:43:13-60
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:42:13-71
+activity#com.boops.boops.helpers.IntentProxyToContentProvider
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:44:9-47:15
+	android:exported
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:45:13-80
+receiver#com.boops.boops.receivers.StartServiceReceiver
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:49:9-56:20
+	android:process
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:52:13-38
+	android:exported
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:51:13-36
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:50:13-74
+intent-filter#action:name:com.boops.boops.PWN
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:53:13-55:29
+action#com.boops.boops.PWN
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:54:17-61
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:54:25-59
+receiver#com.boops.boops.receivers.StartMainActivityReceiver
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:58:9-65:20
+	android:process
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:61:13-38
+	android:exported
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:60:13-36
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:59:13-79
+intent-filter#action:name:com.boops.boops.START
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:62:13-64:29
+action#com.boops.boops.START
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:63:17-63
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:63:25-61
+service#com.boops.boops.services.ClientService
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:67:9-69:41
+	android:process
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:69:13-38
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:68:13-66
+service#com.boops.boops.services.ServerService
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:70:9-72:41
+	android:process
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:72:13-38
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:71:13-66
+service#com.boops.boops.services.SessionService
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:73:9-75:41
+	android:process
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:75:13-38
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:74:13-67
+provider#com.boops.boops.providers.Provider
+ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:77:9-80:72
+	android:authorities
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:80:13-69
+	android:exported
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:79:13-36
+	android:name
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml:78:13-62
+uses-sdk
+INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml
+INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f47cc1d15e58d70eded5919f7f58d7da/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f47cc1d15e58d70eded5919f7f58d7da/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/d2d227f3815b62902be92d706100fa9c/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/d2d227f3815b62902be92d706100fa9c/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/d32248ca3295ce7d518a19a7d28c5626/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/d32248ca3295ce7d518a19a7d28c5626/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/740fd1b41dfeea31194478268191279e/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/740fd1b41dfeea31194478268191279e/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [:jdiesel] /Users/kengannon/Desktop/git/boops-boops-android-agent/jdiesel/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:jdiesel] /Users/kengannon/Desktop/git/boops-boops-android-agent/jdiesel/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:boopstls] /Users/kengannon/Desktop/git/boops-boops-android-agent/boopstls/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:boopstls] /Users/kengannon/Desktop/git/boops-boops-android-agent/boopstls/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:boopsandroid] /Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:boopsandroid] /Users/kengannon/Desktop/git/boops-boops-android-agent/boopsandroid/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f77a4ad602b78d4d7bd837239756c6fd/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f77a4ad602b78d4d7bd837239756c6fd/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/3eb912327e3c45e38563df98730f7291/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/3eb912327e3c45e38563df98730f7291/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/05393c265b87179c895d6a7cfe080a77/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/05393c265b87179c895d6a7cfe080a77/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/3422c8c9ddaa44328d716141d9ee15e4/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/3422c8c9ddaa44328d716141d9ee15e4/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/70cd373010796a1e14fc8f8a7540bc32/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/70cd373010796a1e14fc8f8a7540bc32/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/2508dea86b93b80d8d454b07b18cd3c4/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/2508dea86b93b80d8d454b07b18cd3c4/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/64c3c3c8bb5899df17d05660a942f372/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/64c3c3c8bb5899df17d05660a942f372/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/92b4f60b1d0cb42afc03f3b4c3ee1f21/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/92b4f60b1d0cb42afc03f3b4c3ee1f21/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/2fac902c3027fcde541431e9b114d42c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/2fac902c3027fcde541431e9b114d42c/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/c6fc22051ace9373b9fadb8e4319bac3/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/c6fc22051ace9373b9fadb8e4319bac3/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/e51e3064b77bb5a57f1855a73e50b5f8/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/e51e3064b77bb5a57f1855a73e50b5f8/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/8224b330ba813277e92160b56d7bbe8f/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/8224b330ba813277e92160b56d7bbe8f/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/a9ae7db3acbe083b60e38ddc8abf063b/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/a9ae7db3acbe083b60e38ddc8abf063b/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/e3d97a74f71b4c2e294cb2779c52ef3a/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/e3d97a74f71b4c2e294cb2779c52ef3a/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/c931b81b375b0d6e80c09a0c92a37a45/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/c931b81b375b0d6e80c09a0c92a37a45/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/a2e2723f6680095d5976b393be451cac/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/a2e2723f6680095d5976b393be451cac/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/bd2c397ceb90629abb5ac76152ad202a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/bd2c397ceb90629abb5ac76152ad202a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/5095c79b06678e57ca9ee55018391e05/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/5095c79b06678e57ca9ee55018391e05/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f893c2e1b86ac166d695c56727fd4612/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f893c2e1b86ac166d695c56727fd4612/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/9dff49f22d54ed652bd93810541c5442/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/9dff49f22d54ed652bd93810541c5442/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/8fa3e3a31d6e2b0c2d10babc35bee402/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/8fa3e3a31d6e2b0c2d10babc35bee402/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/9b60736b1da8f613efe523bb86cd0815/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/9b60736b1da8f613efe523bb86cd0815/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/747606256d6c81f201c8f85a6b2ab724/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/747606256d6c81f201c8f85a6b2ab724/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/bb6664d2bfb9aad6cff3ee586550c876/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/bb6664d2bfb9aad6cff3ee586550c876/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/e854a87b1bf8298a1e1269304eb9ba52/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/e854a87b1bf8298a1e1269304eb9ba52/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/a59859a9db4d380b6ae3152a0da3e84d/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/a59859a9db4d380b6ae3152a0da3e84d/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/0319fec8a685cf77f85aff1bdf90fd58/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/0319fec8a685cf77f85aff1bdf90fd58/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/51cf79c7b00ac3837f1f5e8562fbb15b/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/51cf79c7b00ac3837f1f5e8562fbb15b/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/ee532a9f8e130b8eb446a1e7fac60330/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/ee532a9f8e130b8eb446a1e7fac60330/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/91bead573deaca3dda3f53ac14c59b2b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/91bead573deaca3dda3f53ac14c59b2b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/62ead828f523aeb427c41ad7abd903aa/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/62ead828f523aeb427c41ad7abd903aa/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/3bd6bdbc4ad92faa504785b275138b69/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/3bd6bdbc4ad92faa504785b275138b69/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/42a513cae39f7a998903dc784e6cebcf/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/42a513cae39f7a998903dc784e6cebcf/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml
+INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml
+		INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml
+		ADDED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml
+		INJECTED from /Users/kengannon/Desktop/git/boops-boops-android-agent/agent/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f77a4ad602b78d4d7bd837239756c6fd/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f77a4ad602b78d4d7bd837239756c6fd/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f77a4ad602b78d4d7bd837239756c6fd/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/f77a4ad602b78d4d7bd837239756c6fd/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/05393c265b87179c895d6a7cfe080a77/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/05393c265b87179c895d6a7cfe080a77/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kengannon/.gradle/caches/transforms-2/files-2.1/05393c265b87179c895d6a7cfe080a77/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
